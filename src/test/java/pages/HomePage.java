@@ -30,4 +30,6 @@ public class HomePage {
     public WebElement product;
     //burası aşırı static oldu , projenin sonuna doğru daha dinamik yapmalıyım.
 
+    @FindBy(xpath = "//a[text()='Çıkış Yap']")
+    public WebElement signoutButton;
 }
