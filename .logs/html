@@ -1,0 +1,78 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<title>Application logs</title>
+<style type="text/css">
+<!--
+body, table {font-family: arial,sans-serif; font-size: x-small;}
+th {background: #336699; color: #FFFFFF; text-align: left;}
+-->
+</style>
+</head>
+<body bgcolor="#FFFFFF" topmargin="6" leftmargin="6">
+<hr size="1" noshade>
+Log session start time Thu Nov 03 11:29:48 TRT 2022<br>
+<br>
+<table cellspacing="0" cellpadding="4" border="1" bordercolor="#224466" width="100%">
+<tr>
+<th>Time</th>
+<th>Thread</th>
+<th>Level</th>
+<th>Category</th>
+<th>File:Line</th>
+<th>Message</th>
+</tr>
+
+<tr>
+<td>1</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="utilities.Log4j category">utilities.Log4j</td>
+<td>Log4j.java:10</td>
+<td title="Message">Test is Starting...</td>
+</tr>
+
+<tr>
+<td>730</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="utilities.Log4j category">utilities.Log4j</td>
+<td>Log4j.java:19</td>
+<td title="Message">Kullanıcı giriş sayfasına gider  PASS</td>
+</tr>
+
+<tr>
+<td>1166</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="utilities.Log4j category">utilities.Log4j</td>
+<td>Log4j.java:19</td>
+<td title="Message">Kullanıcı çerezleri kabul eder PASS</td>
+</tr>
+
+<tr>
+<td>1962</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="utilities.Log4j category">utilities.Log4j</td>
+<td>Log4j.java:19</td>
+<td title="Message">Kullanıcı giriş yap butonuna yönlenir PASS</td>
+</tr>
+
+<tr>
+<td>3066</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="utilities.Log4j category">utilities.Log4j</td>
+<td>Log4j.java:19</td>
+<td title="Message">Kullanıcı giriş yap butonuna tıklar PASS</td>
+</tr>
+
+<tr>
+<td>15360</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="utilities.Log4j category">utilities.Log4j</td>
+<td>Log4j.java:19</td>
+<td title="Message">Kullanıcı adı girilir PASS</td>
+</tr>

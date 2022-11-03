@@ -11,7 +11,6 @@ public class LoginPage {
         PageFactory.initElements(Driver.getDriver(), this);
     }
 
-
     @FindBy(xpath = "//input[@id='txtUserName']")
     public WebElement usernameBox;
 
@@ -24,6 +23,7 @@ public class LoginPage {
     @FindBy(xpath = "//button[@id='btnEmailSelect']")
     public WebElement emailSelectButton;
 
-
+    @FindBy(xpath = "((//span[@class='sf-OldMyAccount-d0xCHLV38UCH5cD9mOXq'])[1]")
+    public WebElement userinfo;
 
 }

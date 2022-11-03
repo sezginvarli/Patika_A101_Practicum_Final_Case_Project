@@ -4,9 +4,6 @@ import io.github.bonigarcia.wdm.WebDriverManager;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.chrome.ChromeOptions;
-import org.openqa.selenium.edge.EdgeDriver;
-import org.openqa.selenium.firefox.FirefoxDriver;
-import org.openqa.selenium.safari.SafariDriver;
 
 import java.time.Duration;
 
@@ -16,7 +13,6 @@ public class Driver {
     private Driver() {
     }
 
-    //    create a method to instantiate the driver object
     public static WebDriver getDriver() {
 
         ChromeOptions obj = new ChromeOptions();
@@ -28,8 +24,6 @@ public class Driver {
         obj.addArguments("--disable-blink-features=AutomationControlled");
         obj.addArguments("--disable-extensions");
 
-
-        //      obj.addArguments("--disable-notifications");
 
         if (driver == null) {
             String browser = ConfigReader.getProperty("browser");

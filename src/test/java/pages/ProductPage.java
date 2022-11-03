@@ -7,7 +7,6 @@ import utilities.Driver;
 
 public class ProductPage {
 
-
     public ProductPage() {
         PageFactory.initElements(Driver.getDriver(), this);
     }
@@ -16,8 +15,10 @@ public class ProductPage {
     public WebElement productName;
     @FindBy(xpath = "//button[@id='addToCart']")
     public WebElement addToButton;
+//   a[@class='checkoutui-Modal-2iZXl']
+//   a[@class='checkoutui-Modal-iHhyy79iR28NvF33vKJb']
 
-    @FindBy(xpath = "//a[@class='checkoutui-Modal-2iZXl']")
+    @FindBy(xpath="//a[contains(@class,'checkoutui-Modal')]")
     public WebElement popupCloseButton;
 
     @FindBy(xpath = "(//button[@class='add-to-basket button small'])[1]")

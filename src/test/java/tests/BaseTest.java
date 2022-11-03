@@ -1,29 +1,22 @@
 package tests;
 
-import io.github.bonigarcia.wdm.WebDriverManager;
-import org.junit.jupiter.api.*;
-import org.junit.jupiter.api.extension.ExtendWith;
-import org.openqa.selenium.WebDriver;
-import org.openqa.selenium.chrome.ChromeDriver;
-import utilities.ConfigReader;
-import utilities.Driver;
+import org.apache.logging.log4j.LogManager;
+import org.apache.logging.log4j.Logger;
+import org.testng.annotations.Test;
+import pages.BasePage;
 
-public class BaseTest {
+public class BaseTest extends BasePage {
+    static Logger logger = LogManager.getLogger(BaseTest.class.getName());
+    TestWithUserLogin testWithUserLogin = new TestWithUserLogin();
+    TestWithoutLogin testWithoutLogin = new TestWithoutLogin();
 
-
-    WebDriver driver ;
-
-    @BeforeAll
-    public void setUp(){
-//        WebDriverManager.chromedriver().setup();
-//        driver = new ChromeDriver();
-        Driver.getDriver().get(ConfigReader.getProperty("hepsiburada_url"));
-//        driver.manage().window().maximize();
+    @Test
+    public void baseTestWithLogin() throws InterruptedException {
+        testWithUserLogin.selectProductWithLogin();
     }
 
-    @AfterAll
-    public void tearDown(){
-        driver.quit();
+    @Test
+    public void baseTestWithoutLogin() {
+        testWithoutLogin.selectProductWithoutLogin();
     }
-
 }

@@ -28,8 +28,5 @@ public class HomePage {
 
     @FindBy(xpath = "//a[@href='/caykur-tiryaki-1000-gr-dokme-cay-p-ZYSERK690105000436']")
     public WebElement product;
-    //burası aşırı static oldu , projenin sonuna doğru daha dinamik yapmalıyım.
 
-    @FindBy(xpath = "//a[text()='Çıkış Yap']")
-    public WebElement signoutButton;
 }
