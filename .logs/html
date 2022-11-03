@@ -11,7 +11,7 @@ th {background: #336699; color: #FFFFFF; text-align: left;}
 </head>
 <body bgcolor="#FFFFFF" topmargin="6" leftmargin="6">
 <hr size="1" noshade>
-Log session start time Thu Nov 03 11:29:48 TRT 2022<br>
+Log session start time Thu Nov 03 14:41:35 TRT 2022<br>
 <br>
 <table cellspacing="0" cellpadding="4" border="1" bordercolor="#224466" width="100%">
 <tr>
@@ -24,7 +24,7 @@ Log session start time Thu Nov 03 11:29:48 TRT 2022<br>
 </tr>
 
 <tr>
-<td>1</td>
+<td>0</td>
 <td title="main thread">main</td>
 <td title="Level">INFO</td>
 <td title="utilities.Log4j category">utilities.Log4j</td>
@@ -33,7 +33,7 @@ Log session start time Thu Nov 03 11:29:48 TRT 2022<br>
 </tr>
 
 <tr>
-<td>730</td>
+<td>494</td>
 <td title="main thread">main</td>
 <td title="Level">INFO</td>
 <td title="utilities.Log4j category">utilities.Log4j</td>
@@ -42,7 +42,7 @@ Log session start time Thu Nov 03 11:29:48 TRT 2022<br>
 </tr>
 
 <tr>
-<td>1166</td>
+<td>1864</td>
 <td title="main thread">main</td>
 <td title="Level">INFO</td>
 <td title="utilities.Log4j category">utilities.Log4j</td>
@@ -51,7 +51,7 @@ Log session start time Thu Nov 03 11:29:48 TRT 2022<br>
 </tr>
 
 <tr>
-<td>1962</td>
+<td>4222</td>
 <td title="main thread">main</td>
 <td title="Level">INFO</td>
 <td title="utilities.Log4j category">utilities.Log4j</td>
@@ -60,7 +60,7 @@ Log session start time Thu Nov 03 11:29:48 TRT 2022<br>
 </tr>
 
 <tr>
-<td>3066</td>
+<td>9943</td>
 <td title="main thread">main</td>
 <td title="Level">INFO</td>
 <td title="utilities.Log4j category">utilities.Log4j</td>
@@ -69,10 +69,667 @@ Log session start time Thu Nov 03 11:29:48 TRT 2022<br>
 </tr>
 
 <tr>
-<td>15360</td>
+<td>19427</td>
 <td title="main thread">main</td>
 <td title="Level">INFO</td>
 <td title="utilities.Log4j category">utilities.Log4j</td>
 <td>Log4j.java:19</td>
 <td title="Message">Kullanıcı adı girilir PASS</td>
+</tr>
+
+<tr>
+<td>22170</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="utilities.Log4j category">utilities.Log4j</td>
+<td>Log4j.java:19</td>
+<td title="Message">Kullanıcı şifre girer PASS</td>
+</tr>
+
+<tr>
+<td>72892</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="utilities.Log4j category">utilities.Log4j</td>
+<td>Log4j.java:19</td>
+<td title="Message">Kullanıcı giriş işlemi doğrulanır PASS</td>
+</tr>
+
+<tr>
+<td>74282</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="utilities.Log4j category">utilities.Log4j</td>
+<td>Log4j.java:19</td>
+<td title="Message">Kullanıcı arama kutusuna ürünü yazar PASS</td>
+</tr>
+
+<tr>
+<td>110842</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="utilities.Log4j category">utilities.Log4j</td>
+<td>Log4j.java:19</td>
+<td title="Message">Kullanıcı ürünü seçer PASS</td>
+</tr>
+
+<tr>
+<td>129883</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="utilities.Log4j category">utilities.Log4j</td>
+<td>Log4j.java:19</td>
+<td title="Message">Kullanıcı ürünü sepete ekler PASS</td>
+</tr>
+
+<tr>
+<td>138039</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="utilities.Log4j category">utilities.Log4j</td>
+<td>Log4j.java:19</td>
+<td title="Message">Kullanıcı aynı ürünü başka bir satıcıdan sepete ekler PASS</td>
+</tr>
+
+<tr>
+<td>145642</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="utilities.Log4j category">utilities.Log4j</td>
+<td>Log4j.java:19</td>
+<td title="Message">Kullanıcı sepete gider PASS</td>
+</tr>
+
+<tr>
+<td>152508</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="utilities.Log4j category">utilities.Log4j</td>
+<td>Log4j.java:19</td>
+<td title="Message">Kullanıcı seçtiği ürünlerin sepete doğrulamasını yapar PASS</td>
+</tr>
+</table>
+<br>
+</body></html><!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<title>Application logs</title>
+<style type="text/css">
+<!--
+body, table {font-family: arial,sans-serif; font-size: x-small;}
+th {background: #336699; color: #FFFFFF; text-align: left;}
+-->
+</style>
+</head>
+<body bgcolor="#FFFFFF" topmargin="6" leftmargin="6">
+<hr size="1" noshade>
+Log session start time Thu Nov 03 14:44:50 TRT 2022<br>
+<br>
+<table cellspacing="0" cellpadding="4" border="1" bordercolor="#224466" width="100%">
+<tr>
+<th>Time</th>
+<th>Thread</th>
+<th>Level</th>
+<th>Category</th>
+<th>File:Line</th>
+<th>Message</th>
+</tr>
+
+<tr>
+<td>194814</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="utilities.Log4j category">utilities.Log4j</td>
+<td>Log4j.java:10</td>
+<td title="Message">Test is Starting...</td>
+</tr>
+
+<tr>
+<td>198867</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="utilities.Log4j category">utilities.Log4j</td>
+<td>Log4j.java:19</td>
+<td title="Message">Kullanıcı giriş sayfasına gider  PASS</td>
+</tr>
+
+<tr>
+<td>202337</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="utilities.Log4j category">utilities.Log4j</td>
+<td>Log4j.java:19</td>
+<td title="Message">Kullanıcı arama kutusuna ürünü yazar PASS</td>
+</tr>
+
+<tr>
+<td>233807</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="utilities.Log4j category">utilities.Log4j</td>
+<td>Log4j.java:19</td>
+<td title="Message">Kullanıcı ürünü seçer PASS</td>
+</tr>
+
+<tr>
+<td>283859</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="utilities.Log4j category">utilities.Log4j</td>
+<td>Log4j.java:19</td>
+<td title="Message">Kullanıcı ürünü sepete ekler PASS</td>
+</tr>
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<title>Application logs</title>
+<style type="text/css">
+<!--
+body, table {font-family: arial,sans-serif; font-size: x-small;}
+th {background: #336699; color: #FFFFFF; text-align: left;}
+-->
+</style>
+</head>
+<body bgcolor="#FFFFFF" topmargin="6" leftmargin="6">
+<hr size="1" noshade>
+Log session start time Thu Nov 03 15:13:17 TRT 2022<br>
+<br>
+<table cellspacing="0" cellpadding="4" border="1" bordercolor="#224466" width="100%">
+<tr>
+<th>Time</th>
+<th>Thread</th>
+<th>Level</th>
+<th>Category</th>
+<th>File:Line</th>
+<th>Message</th>
+</tr>
+
+<tr>
+<td>0</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="utilities.Log4j category">utilities.Log4j</td>
+<td>Log4j.java:10</td>
+<td title="Message">Test is Starting...</td>
+</tr>
+
+<tr>
+<td>2537</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="utilities.Log4j category">utilities.Log4j</td>
+<td>Log4j.java:19</td>
+<td title="Message">Kullanıcı giriş sayfasına gider  PASS</td>
+</tr>
+
+<tr>
+<td>3278</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="utilities.Log4j category">utilities.Log4j</td>
+<td>Log4j.java:19</td>
+<td title="Message">Kullanıcı çerezleri kabul eder PASS</td>
+</tr>
+
+<tr>
+<td>4843</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="utilities.Log4j category">utilities.Log4j</td>
+<td>Log4j.java:19</td>
+<td title="Message">Kullanıcı giriş yap butonuna yönlenir PASS</td>
+</tr>
+
+<tr>
+<td>6812</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="utilities.Log4j category">utilities.Log4j</td>
+<td>Log4j.java:19</td>
+<td title="Message">Kullanıcı giriş yap butonuna tıklar PASS</td>
+</tr>
+
+<tr>
+<td>10661</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="utilities.Log4j category">utilities.Log4j</td>
+<td>Log4j.java:19</td>
+<td title="Message">Kullanıcı adı girilir PASS</td>
+</tr>
+
+<tr>
+<td>11973</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="utilities.Log4j category">utilities.Log4j</td>
+<td>Log4j.java:19</td>
+<td title="Message">Kullanıcı şifre girer PASS</td>
+</tr>
+
+<tr>
+<td>29197</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="utilities.Log4j category">utilities.Log4j</td>
+<td>Log4j.java:19</td>
+<td title="Message">Kullanıcı giriş işlemi doğrulanır PASS</td>
+</tr>
+
+<tr>
+<td>30196</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="utilities.Log4j category">utilities.Log4j</td>
+<td>Log4j.java:19</td>
+<td title="Message">Kullanıcı arama kutusuna ürünü yazar PASS</td>
+</tr>
+
+<tr>
+<td>45753</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="utilities.Log4j category">utilities.Log4j</td>
+<td>Log4j.java:19</td>
+<td title="Message">Kullanıcı ürünü seçer PASS</td>
+</tr>
+
+<tr>
+<td>57095</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="utilities.Log4j category">utilities.Log4j</td>
+<td>Log4j.java:19</td>
+<td title="Message">Kullanıcı ürünü sepete ekler PASS</td>
+</tr>
+
+<tr>
+<td>64017</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="utilities.Log4j category">utilities.Log4j</td>
+<td>Log4j.java:19</td>
+<td title="Message">Kullanıcı aynı ürünü başka bir satıcıdan sepete ekler PASS</td>
+</tr>
+
+<tr>
+<td>69818</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="utilities.Log4j category">utilities.Log4j</td>
+<td>Log4j.java:19</td>
+<td title="Message">Kullanıcı sepete gider PASS</td>
+</tr>
+
+<tr>
+<td>72655</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="utilities.Log4j category">utilities.Log4j</td>
+<td>Log4j.java:19</td>
+<td title="Message">Kullanıcı seçtiği ürünlerin sepete doğrulamasını yapar PASS</td>
+</tr>
+</table>
+<br>
+</body></html><!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<title>Application logs</title>
+<style type="text/css">
+<!--
+body, table {font-family: arial,sans-serif; font-size: x-small;}
+th {background: #336699; color: #FFFFFF; text-align: left;}
+-->
+</style>
+</head>
+<body bgcolor="#FFFFFF" topmargin="6" leftmargin="6">
+<hr size="1" noshade>
+Log session start time Thu Nov 03 15:14:49 TRT 2022<br>
+<br>
+<table cellspacing="0" cellpadding="4" border="1" bordercolor="#224466" width="100%">
+<tr>
+<th>Time</th>
+<th>Thread</th>
+<th>Level</th>
+<th>Category</th>
+<th>File:Line</th>
+<th>Message</th>
+</tr>
+
+<tr>
+<td>91850</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="utilities.Log4j category">utilities.Log4j</td>
+<td>Log4j.java:10</td>
+<td title="Message">Test is Starting...</td>
+</tr>
+
+<tr>
+<td>95027</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="utilities.Log4j category">utilities.Log4j</td>
+<td>Log4j.java:19</td>
+<td title="Message">Kullanıcı giriş sayfasına gider  PASS</td>
+</tr>
+
+<tr>
+<td>96693</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="utilities.Log4j category">utilities.Log4j</td>
+<td>Log4j.java:19</td>
+<td title="Message">Kullanıcı arama kutusuna ürünü yazar PASS</td>
+</tr>
+
+<tr>
+<td>113606</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="utilities.Log4j category">utilities.Log4j</td>
+<td>Log4j.java:19</td>
+<td title="Message">Kullanıcı ürünü seçer PASS</td>
+</tr>
+
+<tr>
+<td>124030</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="utilities.Log4j category">utilities.Log4j</td>
+<td>Log4j.java:19</td>
+<td title="Message">Kullanıcı ürünü sepete ekler PASS</td>
+</tr>
+
+<tr>
+<td>126196</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="utilities.Log4j category">utilities.Log4j</td>
+<td>Log4j.java:19</td>
+<td title="Message">Kullanıcı aynı ürünü başka bir satıcıdan sepete ekler PASS</td>
+</tr>
+
+<tr>
+<td>129615</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="utilities.Log4j category">utilities.Log4j</td>
+<td>Log4j.java:19</td>
+<td title="Message">Kullanıcı sepete gider PASS</td>
+</tr>
+
+<tr>
+<td>132662</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="utilities.Log4j category">utilities.Log4j</td>
+<td>Log4j.java:19</td>
+<td title="Message">Kullanıcı seçtiği ürünlerin sepete doğrulamasını yapar PASS</td>
+</tr>
+
+<tr>
+<td>132663</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="utilities.Log4j category">utilities.Log4j</td>
+<td>Log4j.java:14</td>
+<td title="Message">Test is Ending...</td>
+</tr>
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<title>Application logs</title>
+<style type="text/css">
+<!--
+body, table {font-family: arial,sans-serif; font-size: x-small;}
+th {background: #336699; color: #FFFFFF; text-align: left;}
+-->
+</style>
+</head>
+<body bgcolor="#FFFFFF" topmargin="6" leftmargin="6">
+<hr size="1" noshade>
+Log session start time Thu Nov 03 16:04:44 TRT 2022<br>
+<br>
+<table cellspacing="0" cellpadding="4" border="1" bordercolor="#224466" width="100%">
+<tr>
+<th>Time</th>
+<th>Thread</th>
+<th>Level</th>
+<th>Category</th>
+<th>File:Line</th>
+<th>Message</th>
+</tr>
+
+<tr>
+<td>0</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="utilities.Log4j category">utilities.Log4j</td>
+<td>Log4j.java:10</td>
+<td title="Message">Test is Starting...</td>
+</tr>
+
+<tr>
+<td>258</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="utilities.Log4j category">utilities.Log4j</td>
+<td>Log4j.java:19</td>
+<td title="Message">Kullanıcı giriş sayfasına gider  PASS</td>
+</tr>
+
+<tr>
+<td>911</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="utilities.Log4j category">utilities.Log4j</td>
+<td>Log4j.java:19</td>
+<td title="Message">Kullanıcı çerezleri kabul eder PASS</td>
+</tr>
+
+<tr>
+<td>2391</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="utilities.Log4j category">utilities.Log4j</td>
+<td>Log4j.java:19</td>
+<td title="Message">Kullanıcı giriş yap butonuna yönlenir PASS</td>
+</tr>
+
+<tr>
+<td>4825</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="utilities.Log4j category">utilities.Log4j</td>
+<td>Log4j.java:19</td>
+<td title="Message">Kullanıcı giriş yap butonuna tıklar PASS</td>
+</tr>
+
+<tr>
+<td>10440</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="utilities.Log4j category">utilities.Log4j</td>
+<td>Log4j.java:19</td>
+<td title="Message">Kullanıcı adı girilir PASS</td>
+</tr>
+
+<tr>
+<td>12035</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="utilities.Log4j category">utilities.Log4j</td>
+<td>Log4j.java:19</td>
+<td title="Message">Kullanıcı şifre girer PASS</td>
+</tr>
+
+<tr>
+<td>31494</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="utilities.Log4j category">utilities.Log4j</td>
+<td>Log4j.java:19</td>
+<td title="Message">Kullanıcı giriş işlemi doğrulanır PASS</td>
+</tr>
+
+<tr>
+<td>32212</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="utilities.Log4j category">utilities.Log4j</td>
+<td>Log4j.java:19</td>
+<td title="Message">Kullanıcı arama kutusuna ürünü yazar PASS</td>
+</tr>
+
+<tr>
+<td>51409</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="utilities.Log4j category">utilities.Log4j</td>
+<td>Log4j.java:19</td>
+<td title="Message">Kullanıcı ürünü seçer PASS</td>
+</tr>
+
+<tr>
+<td>64551</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="utilities.Log4j category">utilities.Log4j</td>
+<td>Log4j.java:19</td>
+<td title="Message">Kullanıcı ürünü sepete ekler PASS</td>
+</tr>
+
+<tr>
+<td>70744</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="utilities.Log4j category">utilities.Log4j</td>
+<td>Log4j.java:19</td>
+<td title="Message">Kullanıcı aynı ürünü başka bir satıcıdan sepete ekler PASS</td>
+</tr>
+
+<tr>
+<td>73536</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="utilities.Log4j category">utilities.Log4j</td>
+<td>Log4j.java:19</td>
+<td title="Message">Kullanıcı sepete gider PASS</td>
+</tr>
+
+<tr>
+<td>75463</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="utilities.Log4j category">utilities.Log4j</td>
+<td>Log4j.java:19</td>
+<td title="Message">Kullanıcı seçtiği ürünlerin sepete doğrulamasını yapar PASS</td>
+</tr>
+</table>
+<br>
+</body></html><!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<title>Application logs</title>
+<style type="text/css">
+<!--
+body, table {font-family: arial,sans-serif; font-size: x-small;}
+th {background: #336699; color: #FFFFFF; text-align: left;}
+-->
+</style>
+</head>
+<body bgcolor="#FFFFFF" topmargin="6" leftmargin="6">
+<hr size="1" noshade>
+Log session start time Thu Nov 03 16:06:29 TRT 2022<br>
+<br>
+<table cellspacing="0" cellpadding="4" border="1" bordercolor="#224466" width="100%">
+<tr>
+<th>Time</th>
+<th>Thread</th>
+<th>Level</th>
+<th>Category</th>
+<th>File:Line</th>
+<th>Message</th>
+</tr>
+
+<tr>
+<td>104697</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="utilities.Log4j category">utilities.Log4j</td>
+<td>Log4j.java:10</td>
+<td title="Message">Test is Starting...</td>
+</tr>
+
+<tr>
+<td>104794</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="utilities.Log4j category">utilities.Log4j</td>
+<td>Log4j.java:19</td>
+<td title="Message">Kullanıcı giriş sayfasına gider  PASS</td>
+</tr>
+
+<tr>
+<td>107033</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="utilities.Log4j category">utilities.Log4j</td>
+<td>Log4j.java:19</td>
+<td title="Message">Kullanıcı arama kutusuna ürünü yazar PASS</td>
+</tr>
+
+<tr>
+<td>141234</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="utilities.Log4j category">utilities.Log4j</td>
+<td>Log4j.java:19</td>
+<td title="Message">Kullanıcı ürünü seçer PASS</td>
+</tr>
+
+<tr>
+<td>157746</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="utilities.Log4j category">utilities.Log4j</td>
+<td>Log4j.java:19</td>
+<td title="Message">Kullanıcı ürünü sepete ekler PASS</td>
+</tr>
+
+<tr>
+<td>161330</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="utilities.Log4j category">utilities.Log4j</td>
+<td>Log4j.java:19</td>
+<td title="Message">Kullanıcı aynı ürünü başka bir satıcıdan sepete ekler PASS</td>
+</tr>
+
+<tr>
+<td>164401</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="utilities.Log4j category">utilities.Log4j</td>
+<td>Log4j.java:19</td>
+<td title="Message">Kullanıcı sepete gider PASS</td>
+</tr>
+
+<tr>
+<td>167338</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="utilities.Log4j category">utilities.Log4j</td>
+<td>Log4j.java:19</td>
+<td title="Message">Kullanıcı seçtiği ürünlerin sepete doğrulamasını yapar PASS</td>
+</tr>
+
+<tr>
+<td>167339</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="utilities.Log4j category">utilities.Log4j</td>
+<td>Log4j.java:14</td>
+<td title="Message">Test is Ending...</td>
 </tr>

@@ -39,15 +39,12 @@ public class TestWithoutLogin extends BasePage {
         homePage.product.click();
         Log4j.info("Kullanıcı ürünü seçer PASS");
         Driver.getDriver().manage().timeouts().implicitlyWait(Duration.ofSeconds(15));
-
-
         ReusableMethods.switchDriver();
-
         String productTitle = productPage.productName.getText();
         productPage.addToButton.click();
         Log4j.info("Kullanıcı ürünü sepete ekler PASS");
         Driver.getDriver().manage().timeouts().implicitlyWait(Duration.ofSeconds(15));
-        productPage.popupCloseButton.click();
+        JSUtils.clickElementByJS(productPage.popupCloseButton);
         productPage.anotherSellerButton.click();
         Log4j.info("Kullanıcı aynı ürünü başka bir satıcıdan sepete ekler PASS");
         Driver.getDriver().manage().timeouts().implicitlyWait(Duration.ofSeconds(15));

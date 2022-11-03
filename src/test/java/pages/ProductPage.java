@@ -15,8 +15,6 @@ public class ProductPage {
     public WebElement productName;
     @FindBy(xpath = "//button[@id='addToCart']")
     public WebElement addToButton;
-//   a[@class='checkoutui-Modal-2iZXl']
-//   a[@class='checkoutui-Modal-iHhyy79iR28NvF33vKJb']
 
     @FindBy(xpath="//a[contains(@class,'checkoutui-Modal')]")
     public WebElement popupCloseButton;

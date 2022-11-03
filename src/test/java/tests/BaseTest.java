@@ -11,7 +11,7 @@ public class BaseTest extends BasePage {
     TestWithoutLogin testWithoutLogin = new TestWithoutLogin();
 
     @Test
-    public void baseTestWithLogin() throws InterruptedException {
+    public void baseTestWithLogin() {
         testWithUserLogin.selectProductWithLogin();
     }
 

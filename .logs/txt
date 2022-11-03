@@ -1,6 +1,0 @@
-2022-11-03 11:29:48 INFO  Log4j:10 - Test is Starting...
-2022-11-03 11:29:49 INFO  Log4j:19 - Kullanıcı giriş sayfasına gider  PASS
-2022-11-03 11:29:49 INFO  Log4j:19 - Kullanıcı çerezleri kabul eder PASS
-2022-11-03 11:29:50 INFO  Log4j:19 - Kullanıcı giriş yap butonuna yönlenir PASS
-2022-11-03 11:29:51 INFO  Log4j:19 - Kullanıcı giriş yap butonuna tıklar PASS
-2022-11-03 11:30:03 INFO  Log4j:19 - Kullanıcı adı girilir PASS

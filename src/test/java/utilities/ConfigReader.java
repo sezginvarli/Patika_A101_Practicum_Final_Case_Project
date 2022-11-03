@@ -27,11 +27,3 @@ public class ConfigReader {
 
     }
 }
-
-
-//    public static void main(String[] args) {
-//        System.out.println(properties.getProperty("url_techproed"));
-//        System.out.println(properties.getProperty("1111"));
-//    }
-//
-//}
