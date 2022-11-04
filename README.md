@@ -7,3 +7,4 @@ Kullanıcı aynı ürünü farklı iki satıcıdan sepetine ekler
 Kullanıcı sepetine eklediği ürünlerin doğrulaması yapılır.
 
 Yukarıda yazılı işlem , kullanıcı giriş işlemi yapılmadan ikinci senaryoda tekrar edilir.
+# hello
