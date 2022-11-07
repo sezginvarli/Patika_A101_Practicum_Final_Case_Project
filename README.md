@@ -1,10 +1,20 @@
 # Patika_A101_Practicum_Final_Case_Project
 
-Kullanıcı Hepsiburada sayfasına gider 
-Kullanıcı bilgileri ile giriş yapar
-Kullanıcı ürün seçer
-Kullanıcı aynı ürünü farklı iki satıcıdan sepetine ekler
-Kullanıcı sepetine eklediği ürünlerin doğrulaması yapılır.
+* Bu projede Hepsiburada internet uygulamasından ürün seçilip , iki  farklı satıocıdan sepete eklenmesi ve sepette doğrulanması istenmiştir.
 
-Yukarıda yazılı işlem , kullanıcı giriş işlemi yapılmadan ikinci senaryoda tekrar edilir.
-# hello
+* Projede Java programlama dili kullanılmıştır.
+
+* Proje Maven üzerine yazılmıştır.
+
+* Proje OOP konseptinde yapılmıştır.
+
+* Test tool olarak Selenium kullanılmış
+
+* Framework olarak TestNG ve Junit kullanılmıştır.
+
+* Proje sonunda test sonuçları Log4j kullanılarak kayıt altına alınmıştır.
+
+* Version control olarak Github kullanılmış ve tüm proje kayıt altına alınmıştır.
+
+
+
