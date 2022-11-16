@@ -4,7 +4,7 @@
 
 * Projede Java programlama dili kullanılmıştır.
 
-* Proje Maven build tool ile oluşturulmuştur..
+* Proje Maven build tool ile oluşturulmuştur.
 
 * Proje OOP konseptinde yapılmıştır.
 
